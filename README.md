@@ -80,16 +80,16 @@ Evaluation Metric: Accuracy
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-bashgit clone https://github.com/your-username/PRODIGY_ML_03.git
-cd PRODIGY_ML_03
+bashgit clone https://github.com/ganesmpsmg/SVM.git
+cd SVM
 2️⃣ Install Dependencies
 bashpip install -r requirements.txt
 3️⃣ Launch the Notebook
 Jupyter:
 bashjupyter notebook dogs_vs_cats_pipeline.ipynb
 PyCharm:
-Open PyCharm → File → Open → select PRODIGY_ML_03/
-Right-click dogs_vs_cats_pipeline.ipynb → Open in Jupyter Notebook
+Open PyCharm → File → Open → select SVM/
+Right-click Dogs_vs_cats.ipynb → Open in Jupyter Notebook
 
 📊 Results
 MetricScoreTraining Accuracy~92%Validation Accuracy~88%OptimizerAdamLossBinary CrossentropyCallbacksEarlyStopping · ReduceLROnPlateau
@@ -114,6 +114,7 @@ This project is licensed under the MIT License.
 See the LICENSE file for full details.
 
 👤 Author
+Ganesh MP
 <div align="center">
   
 </div>
